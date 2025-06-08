@@ -1,46 +1,48 @@
-# Ecommerce-Sales-Dashboard-Power-BI
-Ecommerce Sales Dashboard – Power BI
-This project features an interactive Power BI dashboard designed to analyze and visualize ecommerce sales performance across various dimensions such as time, customer demographics, product categories, and payment modes.
+# 📊 Ecommerce Sales Dashboard – Power BI
 
-🔧 Key Features:
-Dynamic Filters & Slicers: Added custom slicers for Quarter and State to enable interactive, user-driven exploration.
+This repository contains an interactive Power BI dashboard created to analyze and visualize **ecommerce sales performance** across multiple dimensions such as time, geography, customer profiles, product categories, and payment methods.
 
-Multi-Dimensional Analysis:
+## 🖥️ Dashboard Overview
 
-Profit trends across months
+The dashboard provides an intuitive and dynamic user interface that empowers stakeholders to filter data **state-wise** and **quarterly** as per business requirements. It includes multiple KPIs, charts, and slicers for real-time, data-driven decision-making.
 
-Sales and quantity distribution by customer, category, and state
+## 🔧 Key Features
 
-Payment mode breakdown with drill-down capabilities
+- **State-wise and Quarterly Filters**: Added custom slicers for location and time to enhance data exploration.
+- **Comprehensive Data Analysis**:
+  - Monthly profit trends
+  - Top-performing customers and sub-categories
+  - Sales and quantity distribution by state and payment modes
+- **Data Modeling & DAX**:
+  - Joined multiple tables and sources
+  - Created calculated columns and measures for AOV, profit, quantity, etc.
+  - Designed dynamic visuals based on user interactions
+- **Custom Visualizations**:
+  - Bar Chart, Clustered Bar Chart, Donut Chart, Pie Chart, Line Chart, Area Chart, Scatter Plot, Map, and Slicers
 
-Advanced Data Modeling:
+## 📈 Key Metrics Tracked
 
-Connected and joined multiple data sources
+- **Average Order Value (AOV)**: ₹120.90K  
+- **Total Profit**: ₹37K  
+- **Total Sales Amount**: ₹438K  
+- **Total Quantity Sold**: 5,615 units  
 
-Created DAX measures for custom KPIs (e.g., AOV, Profit, Quantity)
+## 🛠️ Tools & Technologies
 
-Designed user-responsive parameters to drive dashboard interactivity
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Data Modeling & Transformations  
+- Slicers & Filters for Dynamic Reporting  
+- BI Dashboard Design Principles
 
-Custom Visualizations Used:
 
-Bar chart, Clustered bar, Donut chart, Pie chart, Line chart, Area chart, Scatter plot, and Map visuals
 
-📈 KPIs Tracked:
-Sum of AOV: ₹120.90K
+---
 
-Sum of Profit: ₹37K
 
-Total Sales Amount: ₹438K
 
-Total Quantity Sold: 5,615 units
 
-🧩 Tools & Skills Applied:
-Power BI Desktop
+## 📬 Contact
 
-DAX (Data Analysis Expressions)
+Feel free to connect with me on [rajdeepjaiswal25nov](#) or drop an email (rajdeepjaiswal25nov@gmail.com) for collaboration or feedback.
 
-Data Modeling & Transformations
-
-UI/UX dashboard design principles
-
-Business Intelligence storytelling
